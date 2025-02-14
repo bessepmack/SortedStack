@@ -1,4 +1,7 @@
-# Project 05: Stack-based Integer Sorter
+# Project 05: Stack Integer Sorter
+![Java](https://img.shields.io/badge/Java-8-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 
 ## Description
 This project is a command-line Java program that reads a list of integer numbers from user input, stores them in a `Stack`, sorts them in ascending order, and prints the sorted stack.
@@ -56,6 +59,13 @@ This will create a `docs/` directory containing the generated HTML documentation
     ```sh
     cd SortedStack
     ```
+
+## Dependencies
+- Java SE 8 or later
+
+## Contributing
+Pull requests are welcome. For significant changes, please open an issue first to discuss what you would like to change.
+
 
 ## License
 This project is licensed under the MIT License.
